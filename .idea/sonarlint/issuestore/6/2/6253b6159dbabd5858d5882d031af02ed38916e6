@@ -1,0 +1,10 @@
+
+k
+java:S1192Q"PDefine a constant instead of duplicating this literal "Duplicate entry" 4 times.(ÉåŠùÿÿÿÿ
+Y
+java:S2166."CRename this class to remove "Exception" or correct its inheritance.(²ëØ«
+F	java:S106‚"+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ
+`
+java:S3358‡"DExtract this nested ternary operation into an independent statement.(À„¿Çıÿÿÿÿ
+S
+java:S1144Ò"<Remove this unused private "createErrorHttpResponse" method.(º¡é³

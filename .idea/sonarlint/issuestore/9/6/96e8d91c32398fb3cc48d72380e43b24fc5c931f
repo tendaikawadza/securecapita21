@@ -1,0 +1,53 @@
+
+V
+java:S1854$"@Remove this useless assignment to local variable "profileImage".(Îó¿Ì
+N
+java:S1854#"8Remove this useless assignment to local variable "type".(ôïø£
+S
+java:S1854""8Remove this useless assignment to local variable "name".(Ä°É•ÿÿÿÿÿ
+V
+java:S1854!"@Remove this useless assignment to local variable "emailAddress".(…‘°
+]
+java:S1854 "BRemove this useless assignment to local variable "estimatedValue".(‚‡˜Èùÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "quantity".(¢ÎÛüÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "unitPrice".(×ê¡¸üÿÿÿÿ
+Y
+java:S1854"CRemove this useless assignment to local variable "itemDescription".(¯ä¾
+Y
+java:S1854">Remove this useless assignment to local variable "itemNumber".(üò„¸øÿÿÿÿ
+\
+java:S1854"ARemove this useless assignment to local variable "requestReason".(Ò¾Á×øÿÿÿÿ
+X
+java:S1854"BRemove this useless assignment to local variable "departmentCode".(ÇŒ†ú
+c
+java:S1854"HRemove this useless assignment to local variable "requestingDepartment".(ÇÛÍ¡şÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "purchaseDate".(ç›Ä–şÿÿÿÿ
+L
+java:S1481"1Remove this unused "purchaseDate" local variable.(ç›Ä–şÿÿÿÿ
+T
+java:S1481"9Remove this unused "requestingDepartment" local variable.(ÇÛÍ¡şÿÿÿÿ
+I
+java:S1481"3Remove this unused "departmentCode" local variable.(ÇŒ†ú
+M
+java:S1481"2Remove this unused "requestReason" local variable.(Ò¾Á×øÿÿÿÿ
+J
+java:S1481"/Remove this unused "itemNumber" local variable.(üò„¸øÿÿÿÿ
+J
+java:S1481"4Remove this unused "itemDescription" local variable.(¯ä¾
+I
+java:S1481".Remove this unused "unitPrice" local variable.(×ê¡¸üÿÿÿÿ
+H
+java:S1481"-Remove this unused "quantity" local variable.(¢ÎÛüÿÿÿÿ
+N
+java:S1481 "3Remove this unused "estimatedValue" local variable.(‚‡˜Èùÿÿÿÿ
+G
+java:S1481!"1Remove this unused "emailAddress" local variable.(…‘°
+D
+java:S1481"")Remove this unused "name" local variable.(Ä°É•ÿÿÿÿÿ
+?
+java:S1481#")Remove this unused "type" local variable.(ôïø£
+G
+java:S1481$"1Remove this unused "profileImage" local variable.(Îó¿Ì
